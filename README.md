@@ -21,21 +21,12 @@ Proyecto base para practicar consumo de APIs y luego integrar datos IoT.
 
 ---
 
-## Estructura del proyecto
-/
-├── index.html
-├── style.css
-├── app.js
-└── README.md
-
-
----
-
 ## API
-Endpoint:
-https://api.jolpi.ca/ergast/f1/{year}/driverStandings.json
-Ejemplo:
-https://api.jolpi.ca/ergast/f1/2023/driverStandings.json
+- Endpoint:
+  https://api.jolpi.ca/ergast/f1/{year}/driverStandings.json
+
+- Ejemplo:
+  https://api.jolpi.ca/ergast/f1/2023/driverStandings.json
 
 ---
 
